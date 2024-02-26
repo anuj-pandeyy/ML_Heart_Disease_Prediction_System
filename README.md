@@ -1,4 +1,4 @@
-# ML_Heart_Disease_Prediction_System: The project is a heart disease prediction system that uses machine learning to analyze user input and predict the likelihood of a person having heart disease. It is built using Python, scikit-learn for machine learning, and Tkinter for the graphical user interface (GUI).
+# ML_Heart_Disease_Prediction_System: 
 
 
 
